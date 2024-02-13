@@ -1,0 +1,7 @@
+{
+  "name": "NewTimes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
